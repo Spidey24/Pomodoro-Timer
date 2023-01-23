@@ -2,7 +2,7 @@
 Pomodoro Timer using Tkinter
 
 ### Requirements 
-Python & Tkinter 
+Tkinter PIL 
 
 ### Instructions to run main.exe 
-Add timer.png to same directory as of main.exe for it's successfull execution 
+Add bgimg.jpg to same directory as of main.exe for it's successfull execution 
