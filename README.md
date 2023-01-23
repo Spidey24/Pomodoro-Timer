@@ -1,5 +1,5 @@
 # Pomodoro-Timer
-Pomodoro Timer using Tkinter
+Pomodoro Timer using Tkinter with transparent background and windows notification sound 
 
 ### Requirements 
 Tkinter PIL 
