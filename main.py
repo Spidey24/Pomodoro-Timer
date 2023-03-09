@@ -79,5 +79,6 @@ class Pomodoro:
                 self.pomodoro_label.pack()
                 self.break_label.pack_forget()
 
-pomodoro = Pomodoro()
-pomodoro.root.mainloop()
+if __name__ == '__main__':
+    pomodoro = Pomodoro()
+    pomodoro.root.mainloop()
